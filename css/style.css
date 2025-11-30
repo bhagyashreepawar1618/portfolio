@@ -23,6 +23,14 @@
             text-align: center;
         }
 
+        /* heading styling */
+        .heading
+        {
+            font-size:70px;
+            background:linear-gradient(0.25turn,#bababc,#aa9dc9);
+            box-shadow:10px 10px 15px gray;
+        }
+
         .card {
             border-radius: 18px;
             transition: 0.3s;
