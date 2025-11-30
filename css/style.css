@@ -1,0 +1,56 @@
+:root {
+            --pink: #ff99cc;
+            --lav-light: #f1e6ff;
+            --lav-dark: #2a2455;
+            --white: #ffffff;
+            --text-dark: #333;
+        }
+
+        /* Light Mode */
+        body {
+            background: var(--lav-light);
+            color: var(--text-dark);
+            transition: 0.3s ease-in-out;
+        }
+
+        .navbar {
+            background: var(--white);
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        .hero {
+            padding: 90px 0;
+            text-align: center;
+        }
+
+        .card {
+            border-radius: 18px;
+            transition: 0.3s;
+        }
+
+        .card:hover {
+            transform: translateY(-6px);
+        }
+
+        .pink-btn {
+            background: var(--pink);
+            border: none;
+            color: #000;
+        }
+
+        /* DARK MODE */
+        .dark-mode {
+            background: var(--lav-dark);
+            color: var(--white);
+        }
+
+        .dark-mode .navbar {
+            background: #3a336a;
+            color: var(--white);
+        }
+
+        .dark-mode .card {
+            background: #3a336a;
+            color: var(--white);
+            border: 1px solid #574c99;
+        }
