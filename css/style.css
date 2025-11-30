@@ -54,3 +54,11 @@
             color: var(--white);
             border: 1px solid #574c99;
         }
+/* skill icon hover effect */
+.skill-icon{
+    transition:transform;
+}
+.skill-icon:hover
+{
+    transform:scale(0.8);
+}
