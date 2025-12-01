@@ -37,8 +37,16 @@ Responsive Layout Techniques
 
 📂 Folder Structure
 
-📁 Portfolio-Website
+📁 Portfolio
+│
 │── 📄 index.html
-│── 🎨 
-│── ⚡ script.js
-│── 📁 css
+│── 📄 README.md
+│── 📄 git.ignore
+│
+├── 📁 css
+│     │── style.css
+│     └── media.css
+│
+└── 📁 images
+      └── (all website images, icons, logos)
+
