@@ -34,3 +34,11 @@ Bootstrap (Optional — if you used it)
 Responsive Layout Techniques
 
 ![Portfolio Preview]()
+
+📂 Folder Structure
+
+📁 Portfolio-Website
+│── 📄 index.html
+│── 🎨 
+│── ⚡ script.js
+│── 📁 css
