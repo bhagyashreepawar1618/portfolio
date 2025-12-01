@@ -33,20 +33,10 @@ Bootstrap (Optional — if you used it)
 
 Responsive Layout Techniques
 
-![Portfolio Preview]()
 
 📂 Folder Structure
 
-📁 Portfolio
-│
-│── 📄 index.html
-│── 📄 README.md
-│── 📄 git.ignore
-│
-├── 📁 css
-│     │── style.css
-│     └── media.css
-│
-└── 📁 images
-      └── (all website images, icons, logos)
+![Portfolio project folder structure showing root directory with index.html, README.md, git.ignore files, a css subfolder containing style.css and media.css, and an images subfolder for website assets](images/folder_structure.png)
+
+
 
