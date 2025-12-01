@@ -18,6 +18,9 @@
             box-shadow: 0 2px 8px rgba(0,0,0,0.1);
         }
 
+        #my-profile img{
+            border-radius:20px;
+        }
         .hero {
             padding: 90px 0;
             text-align: center;
