@@ -38,5 +38,6 @@ Responsive Layout Techniques
 
 ![Portfolio project folder structure showing root directory with index.html, README.md, git.ignore files, a css subfolder containing style.css and media.css, and an images subfolder for website assets](images/folder_structure.png)
 
+![Portfolio website screenshot displaying Projects section with three project cards: BMI Calculator with teal input form, Clones Websites showing Amazon-style kitchen essentials layout, and Rock-Paper-Scissors and Tic-Tac-Toe game with nature background and score display. Purple-pink themed header and clean white card layouts showcase a professional developer portfolio.](images/portfolio_website.png)
 
 
