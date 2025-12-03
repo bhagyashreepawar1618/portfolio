@@ -19,39 +19,20 @@
         }
 
 
-        #my-profile img{
-            border-radius:20px;
-        }
-
-        /* aboutme section  */
-        .aboutMe{
-            background-color: #edc8da;
-            border-radius:50px;
-        }
-
-        .aboutMe h2{
-            color:white;
-            font-size: 40px;
-            text-shadow: #000  2px 2px 4px;
-        }
-
-        .aboutMe {
-            font-size:20px;
-            font-weight: bold;
-            
-        }
-
         .hero {
             padding: 90px 0;
             text-align: center;
+        }
+
+        .myimg{
+            border-radius: 5%;
+            box-shadow: 10px 10px 15px gray;
         }
 
         /* heading styling */
         .heading
         {
             font-size:70px;
-            background:linear-gradient(0.25turn,#9c9fdf,#aa9dc9);
-            box-shadow:10px 10px 15px gray;
         }
 
         .card {
@@ -85,6 +66,15 @@
             color: var(--white);
             border: 1px solid #574c99;
         }
+
+
+    /* project section styling */
+    .project-section{
+        background-color: #e6ccff;
+        border-radius: 20px;
+        box-shadow:10px 10px 15px gray;
+        padding:30px;
+    }
 /* skill icon hover effect */
 .skill-icon{
     transition:transform;
@@ -93,3 +83,4 @@
 {
     transform:scale(0.8);
 }
+
