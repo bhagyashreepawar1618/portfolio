@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 
-function Icons({ iconname }) {
+function Icons({ iconname, name }) {
   return (
     <motion.div
       initial={{ opacity: 0, y: 30 }}
@@ -26,7 +26,7 @@ function Icons({ iconname }) {
 
       {/* Label */}
       <p className="mt-4 text-sm font-semibold text-purple-700 capitalize relative z-10 tracking-wide">
-        {iconname}
+        {name}
       </p>
     </motion.div>
   );
