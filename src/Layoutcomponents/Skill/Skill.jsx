@@ -41,11 +41,11 @@ function Skill() {
               Languages
             </h2>
             <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-6 justify-items-center">
-              <Icons iconname="javascript" />
-              <Icons iconname="python" />
-              <Icons iconname="cplusplus" />
-              <Icons iconname="typescript" />
-              <Icons iconname="c" />
+              <Icons iconname="javascript" name="Java Script" />
+              <Icons iconname="python" name="python" />
+              <Icons iconname="cplusplus" name="c++" />
+              <Icons iconname="typescript" name="Type Script" />
+              <Icons iconname="c" name="C" />
             </div>
           </div>
 
@@ -55,9 +55,9 @@ function Skill() {
               Frontend Development
             </h2>
             <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-6 justify-items-center">
-              <Icons iconname="html5" />
-              <Icons iconname="css" />
-              <Icons iconname="react" />
+              <Icons iconname="html5" name="Html5" />
+              <Icons iconname="css" name="Css" />
+              <Icons iconname="react" name="React" />
             </div>
           </div>
 
@@ -67,8 +67,8 @@ function Skill() {
               Frameworks & Libraries
             </h2>
             <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-6 justify-items-center">
-              <Icons iconname="bootstrap" />
-              <Icons iconname="tailwindcss" />
+              <Icons iconname="bootstrap" name="Bootstrap" />
+              <Icons iconname="tailwindcss" name="Tailwind" />
             </div>
           </div>
 
@@ -78,8 +78,8 @@ function Skill() {
               Backend Development
             </h2>
             <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-6 justify-items-center">
-              <Icons iconname="nodedotjs" />
-              <Icons iconname="express" />
+              <Icons iconname="nodedotjs" name="Node js" />
+              <Icons iconname="express" name="Express" />
             </div>
           </div>
 
@@ -89,8 +89,9 @@ function Skill() {
               Databases
             </h2>
             <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-6 justify-items-center">
-              <Icons iconname="mongodb" />
-              <Icons iconname="mysql" />
+              <Icons iconname="mongodb" name="MongoDB" />
+              <Icons iconname="mysql" name="MySQL" />
+              <Icons iconname="postgresql" name="Postgres SQL" />
             </div>
           </div>
 
@@ -100,9 +101,9 @@ function Skill() {
               DevOps & Deployment
             </h2>
             <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-6 justify-items-center">
-              <Icons iconname="docker" />
-              <Icons iconname="vercel" />
-              <Icons iconname="render" />
+              <Icons iconname="docker" name="Docker" />
+              <Icons iconname="vercel" name="Vercel" />
+              <Icons iconname="render" name="render" />
             </div>
           </div>
 
@@ -112,9 +113,9 @@ function Skill() {
               Tools & Design
             </h2>
             <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-6 justify-items-center">
-              <Icons iconname="git" />
-              <Icons iconname="github" />
-              <Icons iconname="postman" />
+              <Icons iconname="git" name="git" />
+              <Icons iconname="github" name="GitHub" />
+              <Icons iconname="postman" name="Postman" />
             </div>
           </div>
         </div>
